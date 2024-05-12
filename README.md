@@ -32,7 +32,6 @@ Hello 👋, I'm Kaan Caglan, a passionate Cyber Security Engineer from Istanbul,
 
 🌐 **Connect with me on:**
 - [LinkedIn](https://www.linkedin.com/in/caglankaan/)
-- [GitHub](https://github.com/Caglankaan)
 - [Telegram](https://t.me/kaancaglan)
 - [Personal Blog](https://caglankaan.xyz/)
 
