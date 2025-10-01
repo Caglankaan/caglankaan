@@ -1,6 +1,6 @@
 ### Kaan Caglan
 
-Hello 👋, I'm Kaan Caglan, a passionate Cyber Security Engineer from Istanbul, Turkey. With a strong background in cybersecurity engineering, pen-testing, and blockchain technology, I thrive on tackling complex security challenges and enhancing system robustness through innovative solutions.
+I'm a passionate Cyber Security Engineer from Istanbul, Turkey. With a strong background in cybersecurity engineering, pen-testing, and blockchain technology, I thrive on tackling complex security challenges and enhancing system robustness through innovative solutions.
 
 **Core Areas of Expertise:**
 - **Cyber Security Engineering**: Extensive experience in building vulnerability scanners, developing gaming proxies, and conducting manual penetration testing.
